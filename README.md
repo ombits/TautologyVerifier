@@ -2,4 +2,4 @@
 
 Compile : javac TautologyVerifier.java 
 
-Run     : java TautologyVerifier '(a & (!b | b)) | (!a & (!b | b))''  
+Run     : java TautologyVerifier '(a & (!b | b)) | (!a & (!b | b))' 
